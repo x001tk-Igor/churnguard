@@ -13,7 +13,7 @@
 - 📈 **Интерактивный дашборд** — Money at Risk, приоритеты, рекомендации
 - 📥 **Экспорт** — PDF, CSV, pickle-модель
 
-🔗 **[Живая демка](https://churnguard.streamlit.app)** (скоро)
+🔗 **[Живая демка](https://churnguard-cecwmy4heiptn7vkpohfoj.streamlit.app)**
 
 ---
 
